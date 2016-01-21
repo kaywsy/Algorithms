@@ -1,2 +1,2 @@
 # Algorithms
-# This is my algorithm exercise
+## This is my algorithm exercise
