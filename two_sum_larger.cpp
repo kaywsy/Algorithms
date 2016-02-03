@@ -2,6 +2,7 @@
 //given an array of integers, count the number of pairs whose two number sum is larger than target
 //idea: sort + two pointers
 //time complexity: O(nlgn) + O(n) = O(nlgn)
+//space complexity: O(1), no extra space
 
 #include <iostream>
 #include <vector>
